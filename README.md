@@ -1,4 +1,4 @@
-# Pumpkinmeter: A Movie Recommendation System
+# A Movie Recommendation System
 
 ## Project Description
 
