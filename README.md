@@ -6,6 +6,8 @@ Ripe Pumpkins is a startup that aims to offer a movie review aggregation service
 
 ## Dataset Used
 
+Note: The dataset is downloaded directly from the internet. The python notebook has the code to download it.   
+
 The project utilizes the MovieLens dataset provided by GroupLens Research. The dataset includes:
 
 - 27 million movie ratings
